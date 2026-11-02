@@ -11,6 +11,7 @@
 
 ```bash
 python log_parser.py access.log
+```
 
 ## ip_checker.py
 
