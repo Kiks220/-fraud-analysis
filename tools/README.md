@@ -11,3 +11,13 @@
 
 ```bash
 python log_parser.py access.log
+
+## ip_checker.py
+
+Проверка IP-адреса через открытый API `ipinfo.io`.
+Выводит провайдера, ASN, страну, город и координаты.
+
+### Использование
+
+```bash
+python ip_checker.py 8.8.8.8
